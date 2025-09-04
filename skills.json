@@ -1,0 +1,78 @@
+[
+    
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/color/48/000000/power-bi-2021.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/48/000000/tableau-software.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Microsoft Excel",
+        "icon": "https://img.icons8.com/color/48/000000/ms-excel.png"
+    },
+
+    {
+        "name": "Microsoft Word",
+        "icon": "https://img.icons8.com/color/48/000000/ms-word.png"
+    },
+    {
+        "name": "Microsoft PowerPoint",
+        "icon": "https://img.icons8.com/color/48/000000/ms-powerpoint.png"
+    },
+    {
+        "name": "Microsoft SharePoint",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-sharepoint-2019.png"
+    },
+    {
+        "name": "Microsoft Azure",
+        "icon": "https://img.icons8.com/color/48/000000/azure-1.png"
+    },
+    {
+        "name": "Azure Active Directory",
+        "icon": "https://img.icons8.com/color/48/000000/azure-active-directory.png"
+    },
+    {
+        "name": "Azure Synapse Analytics",
+        "icon": "https://img.icons8.com/color/48/000000/database.png"
+    },
+    {
+        "name": "Azure Data Lake",
+        "icon": "https://img.icons8.com/color/48/000000/cloud.png"
+    },
+    {
+        "name": "Azure Data Factory",
+        "icon": "https://img.icons8.com/color/48/000000/workflow.png"
+    },
+    {
+        "name": "Visual Studio",
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
+    },
+    {
+        "name": "Snowflake",
+        "icon": "https://img.icons8.com/color/48/000000/snowflake.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Microsoft outlook",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png"
+    }    
+]
